@@ -56,8 +56,16 @@ nav {
 	display: inline-flex;
 	justify-content: center;
 	align-items: center;
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #07649b;
+}
+
+a:link {
+    color: white;
+		text-decoration: none;
 }
 
 nav li {
